@@ -1,0 +1,11 @@
+# robots.txt — junjiewu.dev
+User-agent: *
+Allow: /
+
+# Legal pages — don't index
+Disallow: /aviso-legal.html
+Disallow: /privacidad.html
+Disallow: /cookies.html
+
+# Sitemap
+Sitemap: https://junjiewu.dev/sitemap.xml
